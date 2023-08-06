@@ -21,6 +21,12 @@ public class Main {
 
     //UML-> lenguaje gráfico para modelar, especificar y documentar software
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        testFactoryMethod();
+    }
+
+    private static void testFactoryMethod(){
+        Payment payment = PaymentFactory.buildPayment(PaymentType.GOOGLE_PAY);
+
+        payment.doPayment();
     }
 }
