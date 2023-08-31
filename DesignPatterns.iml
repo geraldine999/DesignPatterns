@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Observer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/State/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Strategy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Template/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
