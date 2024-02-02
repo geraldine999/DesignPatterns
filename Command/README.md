@@ -1,4 +1,4 @@
-# Chain of Responsibility
+# Command
 ## Patrón de comportamiento
 
 #### Encapsula una acción o solicitud en un objeto (comando). Sirve para 
